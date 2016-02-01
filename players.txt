@@ -45,11 +45,11 @@ Oriol Romeu
 Juanmi
 Cédric Soares
 Steven Berghuis
-Nathan
+Nathan (footballer,_born_1996)
 Gerard Deulofeu
 Kevin Wimmer
 Lee Tomlin
-Joe Gomez
+Joe Gomez (footballer)
 Kieran Trippier
 Nikica Jelavic
 Gokhan Inler
@@ -62,7 +62,7 @@ Scott Sinclair
 Joleon Lescott
 Adam Matthews
 Jose Holebas
-Juanfran
+Juanfran (footballer,_born_1988)
 James McClean
 Danilo Pantic
 Leandro Rodriguez
@@ -92,10 +92,10 @@ Mario Balotelli
 Marcos Rojo
 Filipe Luis
 Daley Blind
-Alberto Moreno
+Alberto Moreno (footballer)
 Shane Long
 Enner Valencia
-Fernando
+Fernando (Brazilian_footballer,_born_1987)
 Calum Chambers
 Dusan Tadic
 Loic Remy
@@ -110,15 +110,15 @@ Leroy Fer
 Leonardo Ulloa
 Jake Livermore
 James McArthur
-Sandro
+Sandro Raniere
 Florin Gardos
 Jordon Mutch
 Willy Caballero
 Eric Dier
 Ricky Lambert
-George Boyd
+George Boyd (footballer)
 David Ospina
-Andrew Robertson
+Andrew Robertson (footballer)
 Harry Maguire
 Gareth Barry
 Lukas Jutkiewicz
@@ -132,10 +132,10 @@ Wayne Hennessey
 Liam Bridcutt
 Jason Puncheon
 Jay Fulton
-Adam King
+Adam King (footballer)
 Mesut Ozil
-Willian
-Fernandinho
+Willian (footballer)
+Fernandinho (footballer)
 Marouane Fellaini
 Roberto Soldado
 Erik Lamela
@@ -143,11 +143,11 @@ Stevan Jovetic
 Alvaro Negredo
 Mamadou Sakho
 Andre Schurrle
-Paulinho
+Paulinho (footballer)
 Dani Osvaldo
 Andy Carroll
 Jesus Navas
-James McCarthy
+James McCarthy (footballer)
 Victor Wanyama
 Wilfried Bony
 Christian Eriksen
@@ -164,7 +164,7 @@ Libor Kozak
 Tiago Ilori
 Nacer Chadli
 Iago Aspas
-Luis Alberto
+Luis Alberto (footballer,_born_1992)
 Emanuele Giaccherini
 Victor Anichebe
 Arouna Kone
@@ -191,7 +191,7 @@ Daniel Sturridge
 Wilfried Zaha
 Philippe Coutinho
 Loic Remy
-Danny Graham
+Danny Graham (footballer)
 Jack Butland
 John Stones
 Zeki Fryers
@@ -203,7 +203,7 @@ Eden Hazard
 Robin van Persie
 Santi Cazorla
 Francisco Javier Garcia
-Steven Fletcher
+Steven Fletcher (footballer)
 Jack Rodwell
 Olivier Giroud
 Hugo Lloris
@@ -219,7 +219,7 @@ Scott Sinclair
 Ki Sung-Yueng
 Clint Dempsey
 Kevin Mirallas
-Pablo Hernandez
+Pablo Hernandez (footballer,_born_1985)
 Bryan Oviedo
 Charlie Adam
 Emmanuel Adebayor
@@ -227,11 +227,11 @@ Modibo Maiga
 Steven Pienaar
 Steven N%27Zonzi
 Matthew Lowton
-James Collins
+James Collins (footballer, born 1983)
 Kieran Richardson
 Alou Diarra
 Michu
-Chico
+Chico Flores
 Park Ji-Sung
 Gael Bigirimana
 Jordan Bowery
@@ -252,7 +252,7 @@ Stewart Downing
 David De Gea
 Romelu Lukaku
 Ashley Young
-Phil Jones
+Phil Jones (footballer,_born_1992)
 Alex Oxlade-Chamberlain
 Jordan Henderson
 Bryan Ruiz
@@ -265,15 +265,15 @@ Charlie Adam
 Connor Wickham
 Per Mertesacker
 Sebastian Coates
-Jose Enrique
-Roger Johnson
+Jose Enrique (footballer)
+Roger Johnson (footballer)
 Gael Clichy
 Andre Santos
 Craig Gardner
 Shane Long
 Davide Santon
 Scott Dann
-Jamie O'Hara
+Jamie O'Hara (footballer)
 Scott Parker
 Yohan Cabaye
 Anton Ferdinand
@@ -283,15 +283,15 @@ Shaun Wright-Phillips
 Ali Al-Habsi
 Pajtim Kasami
 Shay Given
-Danny Graham
+Danny Graham (footballer)
 Steve Morison
 Gabriel Obertan
 Chu-young Park
 Wayne Routledge
 David Goodwillie
 Radosav Petrovic
-James Vaughan
-Luke Young
+James Vaughan (footballer,_born_1988)
+Luke Young (footballer,_born_1979)
 John Arne Riise
 Ahmed Elmohamady
 Ji Dong-won
@@ -338,16 +338,16 @@ Jerome Boateng
 Laurent Koscielny
 Rafael van der Vaart
 Kenwyne Jones
-Bebe
+Bebé
 Sebastien Squillaci
-Steven Fletcher
+Steven Fletcher (footballer)
 Yossi Benayoun
 Mauro Boselli
-Ben Foster
-Sandro
+Ben Foster (footballer)
+Sandro Raniere
 Nikola Zigic
 Tomas Kalas
-Mousa Dembele
+Mousa Dembélé (French_footballer)
 Christian Poulsen
 Jean Beausejour
 Pablo Barrera
@@ -356,20 +356,20 @@ Jon Walters
 Matej Delac
 Steven Mouyokolo
 Peter Odemwingie
-Brad Jones
+Brad Jones (footballer)
 Winston Reid
-Danny Wilson
-Stephen Hunt
+Danny Wilson (footballer,_born_1991)
+Stephen Hunt (footballer,_born_1981)
 Jelle Van Damme
 Adlene Guedioura
 Simon Mignolet
 Marcos Angeleri
 Kevin Thomson
 Jonjo Shelvey
-Marcos Alonso
+Marcos Alonso Mendoza
 Boaz Myhill
 Stephen McManus
-Tommy Smith
+Tommy Smith (footballer,_born_1980)
 Nicky Bailey
 Rafik Halliche
 Titus Bramble
@@ -381,7 +381,7 @@ Scott Sinclair
 Joao Silva
 Troy Deeney
 Matt Phillips
-Adam Johnson
+Adam Johnson (footballer)
 Younes Kaboul
 Asmir Begovic
 Craig Gardner
@@ -398,13 +398,13 @@ Joleon Lescott
 Alberto Aquilani
 Yuri Zhirkov
 Roque Santa Cruz
-Glen Johnson
+Glen Johnson (English_footballer)
 Antonio Valencia
 Kolo Toure
 Stewart Downing
 Gareth Barry
 Darren Bent
-Diniyar steBilyaletdinov
+Diniyar Bilyaletdinov
 Thomas Vermaelen
 Christian Benitez
 Sebastien Bassong
@@ -412,33 +412,33 @@ Kyle Walker
 Fabian Delph
 Stephen Warnock
 Kevin Doyle
-Michael Turner
+Michael Turner (footballer)
 John Heitinga
 Richard Dunne
 Alessandro Diamanti
 Lee Cattermole
 Nikola Kalinic
 Lorik Cana
-Roger Johnson
+Roger Johnson (footballer)
 Tuncay Sanli
 Robert Huth
-James Collins
+James Collins (footballer, born 1983)
 Damien Duff
 Mohamed Diame
 Zat Knight
 Fraizer Campbell
 Radoslav Kovac
-Mike Williamson
+Mike Williamson (footballer)
 Dean Whitehead
 Seyi Olofinjana
 Gabriel Obertan
-Steven Fletcher
+Steven Fletcher (footballer)
 Andre Bikey
 Danny Collins
 Nenad Milijas
 Diego Arismendi
 Ronald Zubar
-Stephen Hunt
+Stephen Hunt (footballer,_born_1981)
 Greg Halford
 Kamel Ghilas
 Pascal Chimbonda
@@ -453,14 +453,14 @@ Andrew Surman
 Bjørn Helge Riise
 Damian Martinez
 Nemanja Matic
-Paul McShane
+Paul McShane (footballer)
 Sotirios Kyrgiakos
-Simon Cox
+Simon Cox (footballer, born 1987)
 Gonzalo Jara
-James McCarthy
+James McCarthy (footballer)
 Barry Ferguson
 Shaun Barker
 Tyrone Mears
 Charlie Adam
-Brian Easton
+Brian Easton (footballer)
 Youssouf Mulumbu
