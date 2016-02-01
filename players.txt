@@ -52,7 +52,6 @@ Lee Tomlin
 Joe Gomez (footballer)
 Kieran Trippier
 Nikica Jelavic
-Gokhan Inler
 Rickie Lambert
 Younes Kaboul
 Robert Huth
@@ -143,7 +142,6 @@ Stevan Jovetic
 Alvaro Negredo
 Mamadou Sakho
 Andre Schurrle
-Paulinho (footballer)
 Dani Osvaldo
 Andy Carroll
 Jesus Navas
@@ -181,7 +179,6 @@ Jordi Amat
 Peter Odemwingie
 Curtis Davies
 Kevin Theophile-Catherine
-Grant Holt
 Ahmed Elmohamady
 Nicklas Helenius
 John Brayford
@@ -216,7 +213,6 @@ Marko Marin
 Jay Rodriguez
 Cesar Azpilicueta
 Scott Sinclair
-Ki Sung-Yueng
 Clint Dempsey
 Kevin Mirallas
 Pablo Hernández (footballer,_born_1985)
@@ -464,3 +460,7 @@ Tyrone Mears
 Charlie Adam
 Brian Easton (footballer)
 Youssouf Mulumbu
+Gokhan Inler
+Paulinho (footballer)
+Grant Holt
+Ki Sung-Yueng
