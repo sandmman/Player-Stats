@@ -13,19 +13,29 @@ def insertRowSpans(rowspans,playerTable):
     for span in rowspans:
         for i in xrange(span[0],span[0]+span[2]):
             playerTable[i].insert(span[1],span[3])
-
     return playerTable
 def outputStats(playerStats,columns):
-    # Out to csv file
     with open('playerStats.csv', 'wb') as fp:
         a = csv.writer(fp, delimiter=',')
         for p in playerStats:
             indices = []
-            club = p[2].index('Club')
-            season = p[2].index("Season")
+            try:
+                club = p[2].index('Club')
+            except ValueError:
+                club = 0
+            try:
+                season = p[2].index('Season')
+            except ValueError:
+                season = 1
             p[2].reverse()
-            goals = p[2].index("Goals")
-            apps = p[2].index("Apps")
+            try:
+                goals = p[2].index("Goals")
+            except ValueError:
+                goals = p[2].index("CS")
+            try:
+                apps = p[2].index("Apps")
+            except ValueError:
+                apps = p[2].index("App")
             p[2].reverse()
             for i in xrange(len(p)):
                 if i == 0:
@@ -43,8 +53,7 @@ def outputStats(playerStats,columns):
 
 # Get player names to scrape
 f = open("players.txt")
-players =  f.readlines()[:2]
-
+players =  f.readlines()[:458]
 #Establish context and user-agent
 context = ssl._create_unverified_context()
 def scrapePlayerStats(players):
@@ -66,7 +75,15 @@ def scrapePlayerStats(players):
         soup = BeautifulSoup(url.read())
 
         try:
-            rows = soup.find("table", attrs={'class':'wikitable'}).findChildren(['tr'])
+            v = False
+            rows = soup.findAll("table", attrs={'class':'wikitable'})
+            for table in rows:
+                if table.findChildren(['tr'])[0].text.startswith("Club") == True or table.findChildren(['tr'])[0].text.startswith("Season") == True:
+                    rows = table.findChildren(['tr'])
+
+                    v = True
+            if(v == False):
+                raise AttributeError
         except AttributeError as e:
             print 'No tables found for %s' % (player)
             valid = False
@@ -78,8 +95,6 @@ def scrapePlayerStats(players):
                 headers = rows[j].findAll('th')
                 cols = rows[j].findAll('td')
                 ret = []
-                # th rows
-
                 if len(headers) != 0:
                     loc = 0
                     for i in xrange(len(headers)):
@@ -115,7 +130,7 @@ def scrapePlayerStats(players):
 
             playerTable = insertRowSpans(rowspan, playerTable)
             playerTable.insert(0, [player.strip()])
-        playerStats.append(playerTable)
+            playerStats.append(playerTable)
     return playerStats
 
 playerStats = scrapePlayerStats(players)

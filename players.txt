@@ -10,7 +10,6 @@ Son Heung-min
 Pedro (footballer,_born_July_1987)
 Georginio Wijnaldum
 Bastian Schweinsteiger
-Baba Rahman
 Aleksandar Mitrovic (footballer)
 Matteo Darmian
 Nathaniel Clyne
@@ -146,7 +145,6 @@ Dani Osvaldo
 Andy Carroll
 Jesus Navas
 James McCarthy (footballer)
-Victor Wanyama
 Wilfried Bony
 Christian Eriksen
 Gary Medel
@@ -215,7 +213,6 @@ Cesar Azpilicueta
 Scott Sinclair
 Clint Dempsey
 Kevin Mirallas
-Pablo Hernández (footballer,_born_1985)
 Bryan Oviedo
 Charlie Adam
 Emmanuel Adebayor
@@ -452,7 +449,6 @@ Nemanja Matic
 Paul McShane (footballer)
 Sotirios Kyrgiakos
 Simon Cox (footballer, born 1987)
-Gonzalo Jara
 James McCarthy (footballer)
 Barry Ferguson
 Shaun Barker
@@ -464,3 +460,7 @@ Gokhan Inler
 Paulinho (footballer)
 Grant Holt
 Ki Sung-Yueng
+Baba Rahman
+Victor Wanyama
+Pablo Hernández (footballer,_born_1985)
+Gonzalo Jara
